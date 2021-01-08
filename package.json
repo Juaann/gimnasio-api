@@ -1,0 +1,19 @@
+{
+  "name": "gimnasio-api",
+  "version": "1.0.0",
+  "description": "api REST para proyecto gimnasio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juaann/gimnasio-api.git"
+  },
+  "author": "Juan Villalobos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juaann/gimnasio-api/issues"
+  },
+  "homepage": "https://github.com/Juaann/gimnasio-api#readme"
+}
